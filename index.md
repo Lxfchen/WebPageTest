@@ -1,1 +1,1 @@
-Hello World!
+<meta http-equiv="refresh" content="0; url=https://github.com/Lxfchen/WebPageTest/blob/master/Pages/Index.cshtml" />
